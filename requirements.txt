@@ -1,0 +1,9 @@
+torchvision
+torch
+os
+matplotlib
+PIL
+pandas
+numpy
+timm
+
